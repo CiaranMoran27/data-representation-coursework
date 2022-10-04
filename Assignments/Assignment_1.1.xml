@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+    <Book catalogue="Technical">
+        <ISBN>978-3-16-148410-0</ISBN>
+        <Title>Automate the Boring Stuff with Python</Title>
+        <Author>Al Sweigart</Author>
+    </Book>
+    <Book catalogue="Technical">
+        <ISBN>978-3-16-148410-1</ISBN>
+        <Title>Fluent Python</Title>
+        <Author>Luciano Ramalho</Author>
+    </Book>
+    <Book catalogue="Cookery">
+        <ISBN>978-3-16-148410-2</ISBN>
+        <Title>Comfort Food - Pinch Of Nom</Title>
+        <Author>Catherine Allinson</Author>
+    </Book>
+    <Book catalogue="Cookery">
+        <ISBN>978-3-16-148410-3</ISBN>
+        <Title>GORDON RAMSAY'S ULTIMATE FIT FOOD</Title>
+        <Author>Gordan Ramsey</Author>
+    </Book>
+</Library>
